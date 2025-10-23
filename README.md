@@ -1,2 +1,4 @@
-# WC_CES_WIL
-Washington College's Center for Environment and Society Watershed Innovation Lab
+# Washington College's Center for Environment and Society Watershed Innovation Lab Weather Stations
+Current Stations:
+River and Field Campus
+Seman-Griswold Hall
